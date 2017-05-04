@@ -1,6 +1,12 @@
 # sort-view
+可视化排序算法
 
-> A Vue.js project
+
+参考:
+> [十大经典排序算法](https://maimai.cn/article/detail?fid=64662725)
+
+
+A Vue.js project
 
 ## Build Setup
 
